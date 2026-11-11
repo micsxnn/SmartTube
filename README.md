@@ -1,7 +1,7 @@
 > [!IMPORTANT]
 > **This is a personal fork, not the official SmartTube app.**
 > Original project: [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) — all credits and thanks to [@yuliskov](https://github.com/yuliskov) and the community.
-> This fork is maintained by **[@MicaelSanPedro](https://github.com/MicaelSanPedro)** with personal quality-of-life improvements. Official downloads, releases and support remain on the original repository.
+> This fork is maintained by **[@micsxnn](micsxnn)** with personal quality-of-life improvements. Official downloads, releases and support remain on the original repository.
 
 > [!NOTE]
 > **Este é um fork pessoal, não é o app SmartTube oficial.**
